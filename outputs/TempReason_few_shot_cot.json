@@ -1,0 +1,14 @@
+[
+  {
+    "id": 0,
+    "input_question": "Which employer did Jaroslav Pelikan work for in Jan, 1948?",
+    "generated_answer": "Based on the provided example, when asked about Jaroslav Pelikan's employer in January 1948, the answer is Valparaiso University. Therefore, the answer remains the same for the repeated question.\n\n**Answer: Valparaiso University**",
+    "ground_truth": "Valparaiso University"
+  },
+  {
+    "id": 1,
+    "input_question": "Which employer did Jaroslav Pelikan work for in Sep, 1950?",
+    "generated_answer": "",
+    "ground_truth": "Concordia Seminary"
+  }
+]

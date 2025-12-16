@@ -1,0 +1,22 @@
+# config/prompt_template.yaml
+zero_shot_template: |
+  Answer the following question directly,and only provide the answer,don't add any extra information:
+  {question}
+
+few_shot_template: |
+  Here are some examples:
+  {examples}
+  
+  Now answer the next questionand only provide the answer,don't add any extra information:
+  {question}
+
+zero_shot_cot_template: |
+  Let's think step by step to answer the following question，and only provide the answer,don't add any extra information:
+  {question}
+
+few_shot_cot_template: |
+  Here are some examples with reasoning steps:
+  {examples}
+  
+  Now let's think step by step to answer the next question，and only provide the answer,don't add any extra information:
+  {question}

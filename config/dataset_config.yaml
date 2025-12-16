@@ -1,0 +1,16 @@
+# config/dataset_config.yaml
+datasets:
+  - name: "ComplexTR"
+    question_path: "./datasets/ComplexTR/Question.json"
+    corpus_path: "./datasets/ComplexTR/Corpus.json"
+    examples_path: "./datasets/ComplexTR/examples.json"
+
+  - name: "TempReason"
+    question_path: "./datasets/TempReason/Question.json"
+    corpus_path: "./datasets/TempReason/Corpus.json"
+    examples_path: "./datasets/TempReason/examples.json"
+
+  - name: "TimeQA"
+    question_path: "./datasets/TimeQA/Question.json"
+    corpus_path: "./datasets/TimeQA/Corpus.json"
+    examples_path: "./datasets/TimeQA/examples.json"
