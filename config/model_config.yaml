@@ -1,0 +1,6 @@
+# config/model_config.yaml
+model_name: "deepseek-ai/deepseek-coder-33b-instruct"
+api_base_url: "https://api.deepseek.com/v1"
+api_key: "YOUR_DEEPSEEK_API_KEY"
+temperature: 1.0
+max_tokens: 512
